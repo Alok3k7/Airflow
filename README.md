@@ -1,6 +1,3 @@
-Sure! Here’s a standalone `README.md` file that focuses solely on your practice with Apache Airflow, without referencing the Astronomer project:
-
-```markdown
 # Alok's Airflow Practice
 
 ## Overview
@@ -43,7 +40,7 @@ To start working with these DAGs, follow these steps:
 
    ```bash
    pip install apache-airflow
-   ```
+
 
 2. **Set Up Your Airflow Environment:**
    Initialize the Airflow database and start the Airflow web server and scheduler:
@@ -60,9 +57,9 @@ To start working with these DAGs, follow these steps:
 4. **Access Airflow UI:**
    Open your browser and navigate to `http://localhost:8080/`. Log in with your Airflow credentials to view and manage the DAGs.
 
-## Contributing
+## Contact
 
-Feel free to fork this repository and make your own contributions. If you have any questions or suggestions, you can open an issue or create a pull request.
+For any questions or suggestions, you can open an issue or create a pull request in this repository.
 
 ## License
 
@@ -70,3 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
+This `README.md` provides an overview of your Airflow practice, instructions for getting started, and contact information. Let me know if there’s anything else you’d like to add or modify!
