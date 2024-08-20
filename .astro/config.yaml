@@ -1,0 +1,4 @@
+project:
+    name: airflow-at-tricera
+webserver:
+    port: "8081"

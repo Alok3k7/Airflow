@@ -1,0 +1,1 @@
+SELECT partner_name FROM partner WHERE date = {{ds}}
